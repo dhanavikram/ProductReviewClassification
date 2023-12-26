@@ -6,7 +6,7 @@ import pandas as pd
 
 
 def download_file(url: str, file_name: str):
-    data_path = '/data/'
+    data_path = 'data/'
     save_path = data_path + file_name
 
     # Check if the file already exists
@@ -19,9 +19,9 @@ def download_file(url: str, file_name: str):
         print("Download complete.")
 
 
-def extract_data(data):
+def load_data():
     # Extract the gzip format file
-    extracted_dataset = gzip.open('Luxury_Beauty_5.json.gz', 'rb')
+    extracted_dataset = gzip.open('data/Luxury_Beauty_5.json.gz', 'rb')
 
     # Each observation is in a json string format. Use json.loads() to parse it into a dictionary.
 
