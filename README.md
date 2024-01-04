@@ -1,6 +1,6 @@
 # Product Review Classification
 
-Authors:
+Team Members:
 * Dhanavikram Sekar
 * Hariharan Kumar
 * Naveen Vinayaga Murthy
