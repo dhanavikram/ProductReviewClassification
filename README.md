@@ -13,4 +13,18 @@ Structure:
 1. data - Folder containing the required dataset
 2. data_read.py - Contains utilities that can be used to download and/or read the data
 3. pre_process.py - Contains utilities that help in preprocessing the textual data.
-4. model.py - Comprises of functions required to train and evaluate the model. 
+4. model.py - Comprises of functions required to train and evaluate the model.
+
+## Files in the Repository
+
+
+
+1. **Data:**
+   - [`data`](https://github.com/dhanavikram/ProductReviewClassification/tree/main/data): Folder containing dataset used for this project.
+2. **Code:**
+   - [`data_read.py`](https://github.com/dhanavikram/ProductReviewClassification/blob/main/data_read.py): Contains utilities that can be used to download and/or read the data.
+   - [`pre_process.py`](https://github.com/dhanavikram/ProductReviewClassification/blob/main/pre_process.py): Contains utilities that help in preprocessing the textual data.
+   - [`model.py`](https://github.com/dhanavikram/ProductReviewClassification/blob/main/model.py): Comprises of functions required to train and evaluate the model.
+   - [`main.ipynb`](https://github.com/dhanavikram/ProductReviewClassification/blob/main/main.ipynb): Contains execution of the project, with processes like Data Pre-processing, Analysis, Vectorization and Modelling.
+3. **Reports:**
+   - [`STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf`](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf): The comprehensive final report detailing our methodology, findings, and conclusions.
