@@ -24,4 +24,5 @@ This project focuses on extracting valuable insights from the abundance of textu
    - [`model.py`](https://github.com/dhanavikram/ProductReviewClassification/blob/main/model.py): Comprises of functions required to train and evaluate the model.
    - [`main.ipynb`](https://github.com/dhanavikram/ProductReviewClassification/blob/main/main.ipynb): Contains execution of the project, with processes like Data Pre-processing, Analysis, Vectorization and Modelling.
 
-3. **Note:**Create a virtual environment and install all the required packages from requirements before running the code.
+
+**Note:**Create a virtual environment and install all the required packages from requirements before running the code.
