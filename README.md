@@ -25,4 +25,4 @@ This project focuses on extracting valuable insights from the abundance of textu
    - [`main.ipynb`](https://github.com/dhanavikram/ProductReviewClassification/blob/main/main.ipynb): Contains execution of the project, with processes like Data Pre-processing, Analysis, Vectorization and Modelling.
 
 
-**Note:**Create a virtual environment and install all the required packages from requirements before running the code.
+**Note:** Create a virtual environment and install all the required packages from requirements before running the code.
